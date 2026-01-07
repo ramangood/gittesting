@@ -1,4 +1,5 @@
 !#/bin/bash
 
 
-echo "this is my first scritp"
+echo "this is my first scritpi"
+
