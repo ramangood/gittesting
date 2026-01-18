@@ -1,5 +1,5 @@
 !#/bin/bash
 
 
-echo "this is my first scritpitcfvghjkjhhttttttttjhtttyyyysting"
+echo "this is my first scritpitcfvghjkjhhttthghjtttttjhtttyyyysting"
 
